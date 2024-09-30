@@ -1,4 +1,11 @@
 # 💫 About Me:
+
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
+
 An accomplished Software Professional with over a decade years of experience, demonstrating expertise across front-end, backend, server management, and databases, delivering full-stack solutions with a deep understanding of modern development technologies and frameworks.
 
 

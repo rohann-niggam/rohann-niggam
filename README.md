@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align=”center”>
-<img src="https://github.com/rohan-ngm/rohan-ngm/blob/main/Make%20your%20README.png">
+<img src="https://github.com/rohan-ngm/rohan-ngm/blob/main/Make%20your%20README-3.png">
 </p>
 An accomplished Software Professional with over a decade years of experience, demonstrating expertise across front-end, backend, server management, and databases, delivering full-stack solutions with a deep understanding of modern development technologies and frameworks.
 

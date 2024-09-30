@@ -2,7 +2,7 @@
 
 <p align=”center”>
 
-https://github.com/rohan-ngm/rohan-ngm/blob/main/Make%20your%20README.png
+<img src="https://github.com/rohan-ngm/rohan-ngm/blob/main/Make%20your%20README.png">
 
 </p>
 

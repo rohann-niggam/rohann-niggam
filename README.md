@@ -1,5 +1,5 @@
 # 💫 About Me:
-An accomplished software professional with over 12 years of experience, demonstrating expertise across front-end, backend, server management, and databases, delivering full-stack solutions with a deep understanding of modern development technologies and frameworks.
+An accomplished Software Professional with over a decade years of experience, demonstrating expertise across front-end, backend, server management, and databases, delivering full-stack solutions with a deep understanding of modern development technologies and frameworks.
 
 
 # 💻 Tech Stack:

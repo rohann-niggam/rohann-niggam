@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rrohaan Nigam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An accomplished software professional with over 12 years of experience, demonstrating expertise across front-end, backend, server, & databases, delivering full-stack solutions with a deep understanding of modern development technologies and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-ngm&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-ngm" /> </p>
 

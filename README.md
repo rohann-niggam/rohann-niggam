@@ -61,5 +61,5 @@ An accomplished Software Professional with over a decade years of experience, de
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 
-[![](https://visitcount.itsvg.in/api?id=rohan-ngm&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rohan-ngm&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
 

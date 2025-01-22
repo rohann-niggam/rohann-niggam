@@ -3,7 +3,7 @@
 <p align=”center”>
 <img src="https://github.com/rohan-ngm/rohan-ngm/blob/main/GitHub%20Banner.png">
 </p>
-An accomplished Software Professional with over a decade years of experience, demonstrating expertise across front-end, backend, server management, and databases, delivering full-stack solutions with a deep understanding of modern development technologies and frameworks.
+An accomplished Tech Entrepreneur with 10+ years of experience, driving end-to-end digital solutions 🌍. Expert in Front-end Excellence 🎨, Back-end Mastery ⚙️, Server Management 🌐, and Database Optimization 🗄️. Passionate about leveraging cutting-edge technologies and frameworks to build scalable, future-ready solutions.
 
 
 # 💻 Tech Stack:
